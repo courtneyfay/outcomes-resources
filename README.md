@@ -12,13 +12,42 @@
 ## About Me ReadMe info:
 
 1. What you did you do before GA?
+
+--Snowboard bum in Snowmass Village, CO
+--Technology coach at a private school in the middle east (software training for teachers and students)
+--Clinical data analyst for a 100-provider healthcare company in DC
+--Middle school technology teacher in Denver
+
 2. What kind of support do you think you'll need most from Outomes?
+
+--Networking help! Lots of practice talking to strangers
+--Tool development (LinkedIn, business cards, online portfolio, etc.)
+--Career advice: I would really like to keep the next job for ~2 years so I want to make sure I'm making a good choice!
+
 3. What were were your Day 1 goals for this course?
+
+--Personal project goal - I think it’d be really neat to create (or at least see someone create) a computer animation in the style of Pixar
+--Personal general goal - I’d like to build a personal portfolio to use for job interviews
+
 4. Give us two truths and a lie about yourself (don't tell us which are which!)
+
+--I have 2 sisters, 2 snowboards and 2 .
+
 5. Provide a link to your LinkedIn Profile 
+
+--https://www.linkedin.com/in/faycourtney/
+
 6. Describe what kind of company you'd like to work for (i.e. Agency, Startup, etc)
+
+--No idea! Agency sounds like it could involve working on multiple different projects, like consulting, which could be cool. Startup sounds iffy in terms of making money which is a priority. Traditional company is cool too, as long as I get to do a lot of different things all day.
+
 7. Describe what kind of role you're leaning towards (i.e. Frontend, Backend, etc)
+
+--I think I'd really enjoy doing full stack for variety's sake. At my data analyst job, I loved seeing the project through from conception and wireframing all the way to creating database queries. It was all fun!
+
 8. Provide a link to your resume (it should be a file in your repo as well)
+
+--
 
 ## Community
 
