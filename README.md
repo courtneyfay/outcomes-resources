@@ -31,7 +31,7 @@
 
 4. Give us two truths and a lie about yourself (don't tell us which are which!)
 
---I have 2 sisters, 2 snowboards and 2 .
+--I have 2 sisters, 2 snowboards and 2 pairs of glasses.
 
 5. Provide a link to your LinkedIn Profile 
 
@@ -47,7 +47,7 @@
 
 8. Provide a link to your resume (it should be a file in your repo as well)
 
---
+--https://docs.google.com/document/d/11B7MlwQkjc3dAlStgm-jaHxLCX6gElVfGzeS0Sd3xH4/edit
 
 ## Community
 
